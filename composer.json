@@ -1,0 +1,17 @@
+{
+    "name": "brianseitel/php-stock",
+    "authors": [
+        {
+            "name": "Brian Seitel",
+            "email": "brianseitel@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Oasis\\": "Oasis/"
+        }
+    },
+    "require": {
+        "guzzle/guzzle": "^3.9"
+    }
+}
